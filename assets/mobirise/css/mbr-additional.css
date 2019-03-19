@@ -1299,6 +1299,17 @@ body {
     flex: auto!important;
   }
 }
+.jq-selectbox li:hover,
+.jq-selectbox li.selected {
+  background-color: #f49901;
+  color: #000000;
+}
+.jq-selectbox .jq-selectbox__trigger-arrow {
+  border-top-color: contrast(currentColor, #000000, #ffffff, 30%);
+}
+.jq-selectbox:hover .jq-selectbox__trigger-arrow {
+  border-top-color: #f49901;
+}
 .cid-rkltPWFkwG .navbar {
   padding: .5rem 0;
   background: #000000;
@@ -1810,18 +1821,64 @@ body {
 .cid-rklGKZ5KbK P {
   color: #000000;
 }
-.cid-rkxfOPmrKH {
-  background: #ffffff;
-  padding-top: 60px;
-  padding-bottom: 60px;
+.cid-rlc8GJ6W8Q {
+  padding-top: 75px;
+  padding-bottom: 75px;
+  background-image: url("../../../assets/images/golfplaat-1920x1080.png");
 }
-.cid-rkxfOPmrKH .video-block {
-  margin: auto;
+.cid-rlc8GJ6W8Q .mbr-media span {
+  font-size: 48px;
+  cursor: pointer;
+  background-color: #ffffff;
+  border-radius: 50%;
+  width: 6rem;
+  height: 6rem;
+  line-height: 6rem;
+  position: relative;
+  display: inline-block;
+  transition: all 0.25s;
+  color: #353535;
 }
-@media (max-width: 768px) {
-  .cid-rkxfOPmrKH .video-block {
-    width: 100% !important;
-  }
+.cid-rlc8GJ6W8Q .mbr-media span.mbri-play:before {
+  position: absolute;
+  left: 50%;
+  -webkit-transform: translateX(-35%);
+  -moz-transform: translateX(-35%);
+  -ms-transform: translateX(-35%);
+  -o-transform: translateX(-35%);
+  transform: translateX(-35%);
+}
+.cid-rlc8GJ6W8Q .modalWindow {
+  position: fixed;
+  z-index: 5000;
+  left: 0;
+  top: 0;
+  background-color: rgba(61, 61, 61, 0.65);
+  width: 100%;
+  height: 100%;
+}
+.cid-rlc8GJ6W8Q .modalWindow .modalWindow-container {
+  display: table-cell;
+  vertical-align: middle;
+}
+.cid-rlc8GJ6W8Q .modalWindow .modalWindow-video {
+  height: calc(44.9943757vw);
+  width: 80vw;
+  margin: 0 auto;
+}
+.cid-rlc8GJ6W8Q a.close {
+  position: absolute;
+  right: 4vw;
+  top: 4vh;
+  color: #ffffff;
+  z-index: 5000000;
+  font-size: 37px;
+  background: #000;
+  padding: 20px;
+  border-radius: 50%;
+}
+.cid-rlc8GJ6W8Q a.close:hover {
+  color: #ffffff;
 }
 .cid-rkluCufRG7 {
   padding-top: 60px;
