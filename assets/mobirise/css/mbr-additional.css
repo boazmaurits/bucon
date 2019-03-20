@@ -134,7 +134,7 @@ body {
   border-radius: 3px;
 }
 .bg-primary {
-  background-color: #f49901 !important;
+  background-color: #cdb8db !important;
 }
 .bg-success {
   background-color: #f7ed4a !important;
@@ -150,8 +150,8 @@ body {
 }
 .btn-primary,
 .btn-primary:active {
-  background-color: #f49901 !important;
-  border-color: #f49901 !important;
+  background-color: #cdb8db !important;
+  border-color: #cdb8db !important;
   color: #ffffff !important;
 }
 .btn-primary:hover,
@@ -159,14 +159,14 @@ body {
 .btn-primary.focus,
 .btn-primary.active {
   color: #ffffff !important;
-  background-color: #a86901 !important;
-  border-color: #a86901 !important;
+  background-color: #a985c1 !important;
+  border-color: #a985c1 !important;
 }
 .btn-primary.disabled,
 .btn-primary:disabled {
   color: #ffffff !important;
-  background-color: #a86901 !important;
-  border-color: #a86901 !important;
+  background-color: #a985c1 !important;
+  border-color: #a985c1 !important;
 }
 .btn-secondary,
 .btn-secondary:active {
@@ -314,22 +314,22 @@ body {
 .btn-primary-outline,
 .btn-primary-outline:active {
   background: none;
-  border-color: #8e5901;
-  color: #8e5901;
+  border-color: #9d74b9;
+  color: #9d74b9;
 }
 .btn-primary-outline:hover,
 .btn-primary-outline:focus,
 .btn-primary-outline.focus,
 .btn-primary-outline.active {
   color: #ffffff;
-  background-color: #f49901;
-  border-color: #f49901;
+  background-color: #cdb8db;
+  border-color: #cdb8db;
 }
 .btn-primary-outline.disabled,
 .btn-primary-outline:disabled {
   color: #ffffff !important;
-  background-color: #f49901 !important;
-  border-color: #f49901 !important;
+  background-color: #cdb8db !important;
+  border-color: #cdb8db !important;
 }
 .btn-secondary-outline,
 .btn-secondary-outline:active {
@@ -466,7 +466,7 @@ body {
   border-color: #ffffff;
 }
 .text-primary {
-  color: #f49901 !important;
+  color: #cdb8db !important;
 }
 .text-secondary {
   color: #ff3366 !important;
@@ -491,7 +491,7 @@ body {
 }
 a.text-primary:hover,
 a.text-primary:focus {
-  color: #8e5901 !important;
+  color: #9d74b9 !important;
 }
 a.text-secondary:hover,
 a.text-secondary:focus {
@@ -538,8 +538,8 @@ a.text-black:focus {
   box-shadow: none !important;
 }
 .mbr-gallery-filter li.active .btn {
-  background-color: #f49901;
-  border-color: #f49901;
+  background-color: #cdb8db;
+  border-color: #cdb8db;
   color: #ffffff;
 }
 .mbr-gallery-filter li.active .btn:focus {
@@ -553,11 +553,11 @@ a.text-black:focus {
 }
 a,
 a:hover {
-  color: #f49901;
+  color: #cdb8db;
 }
 .mbr-plan-header.bg-primary .mbr-plan-subtitle,
 .mbr-plan-header.bg-primary .mbr-plan-price-desc {
-  color: #ffe8c2;
+  color: #ffffff;
 }
 .mbr-plan-header.bg-success .mbr-plan-subtitle,
 .mbr-plan-header.bg-success .mbr-plan-price-desc {
@@ -678,7 +678,7 @@ blockquote {
   padding: 10px 0 10px 20px;
   font-size: 1.09rem;
   position: relative;
-  border-color: #f49901;
+  border-color: #cdb8db;
   border-width: 3px;
 }
 ul,
@@ -728,7 +728,7 @@ pre {
   text-align: center;
   position: relative;
   border: 2px solid #c0a375;
-  border-color: #f49901;
+  border-color: #cdb8db;
   color: #232323;
   cursor: pointer;
 }
@@ -739,7 +739,7 @@ pre {
 }
 .btn-social:hover {
   color: #fff;
-  background: #f49901;
+  background: #cdb8db;
 }
 .btn-social + .btn {
   margin-left: .1rem;
@@ -747,11 +747,11 @@ pre {
 /* Footer */
 .mbr-footer-content li::before,
 .mbr-footer .mbr-contacts li::before {
-  background: #f49901;
+  background: #cdb8db;
 }
 .mbr-footer-content li a:hover,
 .mbr-footer .mbr-contacts li a:hover {
-  color: #f49901;
+  color: #cdb8db;
 }
 /* Headers*/
 .offset-1 {
@@ -1301,14 +1301,14 @@ body {
 }
 .jq-selectbox li:hover,
 .jq-selectbox li.selected {
-  background-color: #f49901;
+  background-color: #cdb8db;
   color: #000000;
 }
 .jq-selectbox .jq-selectbox__trigger-arrow {
   border-top-color: contrast(currentColor, #000000, #ffffff, 30%);
 }
 .jq-selectbox:hover .jq-selectbox__trigger-arrow {
-  border-top-color: #f49901;
+  border-top-color: #cdb8db;
 }
 .cid-rkltPWFkwG .navbar {
   padding: .5rem 0;
