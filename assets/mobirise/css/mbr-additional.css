@@ -134,7 +134,7 @@ body {
   border-radius: 3px;
 }
 .bg-primary {
-  background-color: #cdb8db !important;
+  background-color: #a54399 !important;
 }
 .bg-success {
   background-color: #f7ed4a !important;
@@ -150,8 +150,8 @@ body {
 }
 .btn-primary,
 .btn-primary:active {
-  background-color: #cdb8db !important;
-  border-color: #cdb8db !important;
+  background-color: #a54399 !important;
+  border-color: #a54399 !important;
   color: #ffffff !important;
 }
 .btn-primary:hover,
@@ -159,14 +159,14 @@ body {
 .btn-primary.focus,
 .btn-primary.active {
   color: #ffffff !important;
-  background-color: #a985c1 !important;
-  border-color: #a985c1 !important;
+  background-color: #6f2d67 !important;
+  border-color: #6f2d67 !important;
 }
 .btn-primary.disabled,
 .btn-primary:disabled {
   color: #ffffff !important;
-  background-color: #a985c1 !important;
-  border-color: #a985c1 !important;
+  background-color: #6f2d67 !important;
+  border-color: #6f2d67 !important;
 }
 .btn-secondary,
 .btn-secondary:active {
@@ -314,22 +314,22 @@ body {
 .btn-primary-outline,
 .btn-primary-outline:active {
   background: none;
-  border-color: #9d74b9;
-  color: #9d74b9;
+  border-color: #5c2656;
+  color: #5c2656;
 }
 .btn-primary-outline:hover,
 .btn-primary-outline:focus,
 .btn-primary-outline.focus,
 .btn-primary-outline.active {
   color: #ffffff;
-  background-color: #cdb8db;
-  border-color: #cdb8db;
+  background-color: #a54399;
+  border-color: #a54399;
 }
 .btn-primary-outline.disabled,
 .btn-primary-outline:disabled {
   color: #ffffff !important;
-  background-color: #cdb8db !important;
-  border-color: #cdb8db !important;
+  background-color: #a54399 !important;
+  border-color: #a54399 !important;
 }
 .btn-secondary-outline,
 .btn-secondary-outline:active {
@@ -466,7 +466,7 @@ body {
   border-color: #ffffff;
 }
 .text-primary {
-  color: #cdb8db !important;
+  color: #a54399 !important;
 }
 .text-secondary {
   color: #ff3366 !important;
@@ -491,7 +491,7 @@ body {
 }
 a.text-primary:hover,
 a.text-primary:focus {
-  color: #9d74b9 !important;
+  color: #5c2656 !important;
 }
 a.text-secondary:hover,
 a.text-secondary:focus {
@@ -538,8 +538,8 @@ a.text-black:focus {
   box-shadow: none !important;
 }
 .mbr-gallery-filter li.active .btn {
-  background-color: #cdb8db;
-  border-color: #cdb8db;
+  background-color: #a54399;
+  border-color: #a54399;
   color: #ffffff;
 }
 .mbr-gallery-filter li.active .btn:focus {
@@ -553,11 +553,11 @@ a.text-black:focus {
 }
 a,
 a:hover {
-  color: #cdb8db;
+  color: #a54399;
 }
 .mbr-plan-header.bg-primary .mbr-plan-subtitle,
 .mbr-plan-header.bg-primary .mbr-plan-price-desc {
-  color: #ffffff;
+  color: #d494cc;
 }
 .mbr-plan-header.bg-success .mbr-plan-subtitle,
 .mbr-plan-header.bg-success .mbr-plan-price-desc {
@@ -678,7 +678,7 @@ blockquote {
   padding: 10px 0 10px 20px;
   font-size: 1.09rem;
   position: relative;
-  border-color: #cdb8db;
+  border-color: #a54399;
   border-width: 3px;
 }
 ul,
@@ -728,7 +728,7 @@ pre {
   text-align: center;
   position: relative;
   border: 2px solid #c0a375;
-  border-color: #cdb8db;
+  border-color: #a54399;
   color: #232323;
   cursor: pointer;
 }
@@ -739,7 +739,7 @@ pre {
 }
 .btn-social:hover {
   color: #fff;
-  background: #cdb8db;
+  background: #a54399;
 }
 .btn-social + .btn {
   margin-left: .1rem;
@@ -747,11 +747,11 @@ pre {
 /* Footer */
 .mbr-footer-content li::before,
 .mbr-footer .mbr-contacts li::before {
-  background: #cdb8db;
+  background: #a54399;
 }
 .mbr-footer-content li a:hover,
 .mbr-footer .mbr-contacts li a:hover {
-  color: #cdb8db;
+  color: #a54399;
 }
 /* Headers*/
 .offset-1 {
@@ -1301,14 +1301,14 @@ body {
 }
 .jq-selectbox li:hover,
 .jq-selectbox li.selected {
-  background-color: #cdb8db;
-  color: #000000;
+  background-color: #a54399;
+  color: #ffffff;
 }
 .jq-selectbox .jq-selectbox__trigger-arrow {
   border-top-color: contrast(currentColor, #000000, #ffffff, 30%);
 }
 .jq-selectbox:hover .jq-selectbox__trigger-arrow {
-  border-top-color: #cdb8db;
+  border-top-color: #a54399;
 }
 .cid-rkltPWFkwG .navbar {
   padding: .5rem 0;
@@ -1803,7 +1803,7 @@ body {
 .cid-rkuK4V6EVf {
   padding-top: 45px;
   padding-bottom: 45px;
-  background-color: #f49901;
+  background-color: #a54399;
 }
 .cid-rkuK4V6EVf .mbr-section-subtitle {
   color: #ffffff;
@@ -1905,7 +1905,7 @@ body {
   color: #767676;
 }
 .cid-rkluCufRG7 .mbr-text p {
-  background: #ffa506;
+  background: #a54399;
 }
 .cid-rkluCufRG7 .mbr-text P {
   color: #ffffff;
